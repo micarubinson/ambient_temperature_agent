@@ -353,3 +353,4 @@ This project is designed for personal and educational use. It contains no propri
 ## 🚀 Contributing
 
 This is a research project, but feel free to fork and modify for your own use cases. The synthetic dataset and LangGraph architecture make it easy to extend with new equipment types and data sources. 
+
