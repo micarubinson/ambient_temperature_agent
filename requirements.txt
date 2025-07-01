@@ -1,0 +1,21 @@
+# Ambient Temperature Agent Requirements
+# Core dependencies for the agentic flow project
+
+# LangChain and LangGraph for LLM orchestration
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+langgraph>=0.1.0
+
+# Data processing and validation
+pydantic>=2.0.0
+
+# HTTP requests for WeatherAPI
+requests>=2.28.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0 
